@@ -6,7 +6,7 @@ Projeto de HTML e CSS: Site do Super Mario. Feito no canal do Youtube do Leo Var
 </h1>
 
 <p align="center">
-  <img src=".github/preview.png" width="100%" />
+  <img src="./assets/imagem-projeto-finalizado.jpeg" width="100%" />
 </p>
 
 ## 💻 Projeto
